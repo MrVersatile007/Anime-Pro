@@ -1,7 +1,6 @@
 # Anime-Recomender-System
 
-![image](https://github.com/MrVersatile007/Anime-Recommendation-System/assets/96414851/4b4041b2-c470-4cb2-bf8e-660c08dea4ae)
-
+![image](https://github.com/MrVersatile007/Anime-Recommendation-System/assets/96414851/8cddab1a-d223-454f-b357-3862b2ebf5bc)
 
 I like anime, this is a Machine Learning model: collaborative filtering type RecomenderNet neural network based anime recommendation system.
 
